@@ -1,4 +1,3 @@
----
 
 # 🍔 MERN Food Delivery Application
 
